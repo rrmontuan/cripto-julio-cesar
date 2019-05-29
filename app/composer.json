@@ -1,0 +1,18 @@
+{
+    "name": "rrmontuan/cripto-julio-cesar",
+    "description": "Julio Cesar Cripto Challenge",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ricardo Montuan",
+            "email": "ricardo.montuan@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "classes/"
+        }
+    }
+}
