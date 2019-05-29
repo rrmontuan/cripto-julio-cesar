@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Essa aplicação se trata de um pequeno desafio proposto pelo site [Codenation](http://codenation.dev/). O objetivo é criar um algoritmo que usando a criptografia de Júlio César posso descriptografar uma mensagem aleatória fornecida pela API do Codenation.
+Essa aplicação se trata de um desafio proposto pelo site [Codenation](http://codenation.dev/). O objetivo é criar um algoritmo que, usando a criptografia de Júlio César, possa descriptografar uma mensagem aleatória retornada pela API fornecida.
 
 ### 1. A Criptografia de Júlio Cesar
 
