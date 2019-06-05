@@ -58,7 +58,7 @@ O resultado da submissão vai ser sua nota ou o erro correspondente. Você pode 
 
 ## Requisitos
 
-Para executar o projeto voê precisará das seguintes ferramentas instaladas:
+Para executar o projeto você precisará das seguintes ferramentas instaladas:
 
 - [Docker](https://docs.docker.com/install/)
 - [Docker Compose](https://docs.docker.com/compose/install/)
